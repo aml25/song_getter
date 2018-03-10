@@ -1,0 +1,11 @@
+{
+  "name": "song_getter",
+  "version": "1.0.0",
+  "description": "gets a song from play music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
